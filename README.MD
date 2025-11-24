@@ -38,6 +38,12 @@ pip install streamlit yfinance scikit-learn pandas matplotlib
 
 
 
+
+
+---
+
+
+
 # Screenshots of the Web App
 
 ### Input of the stock name
