@@ -52,6 +52,6 @@ pip install scikit-learn streamlit yfinance
 
 ### Output of the predictor along side a graph showing the change in the stock price through the time.
 
-![](\Screenshots\image-1.png)
+![](/Screenshots/image-1.png)
 
-![](\Screenshots\image-2.png)
+![](/Screenshots/image-2.png)
