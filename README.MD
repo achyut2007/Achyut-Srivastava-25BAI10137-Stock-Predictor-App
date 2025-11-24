@@ -36,6 +36,10 @@ Open your terminal or command prompt and run the following command to install th
 pip install scikit-learn streamlit yfinance
 ```
 
+### To run the web app
+```bash
+streamlit run index.py
+```
 
 
 
@@ -48,10 +52,10 @@ pip install scikit-learn streamlit yfinance
 
 ### Input of the stock name
 
-![alt text](image.png)
+![alt text](Screenshots/image.png)
 
 ### Output of the predictor along side a graph showing the change in the stock price through the time.
 
-![]![alt text](image-1.png)
+![alt text](Screenshots/image-1.png)
 
-![alt text](image-2.png)
+![alt text](Screenshots/image-2.png)
