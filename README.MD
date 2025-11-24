@@ -33,8 +33,8 @@ Ensure you have Python installed on your system.
 Open your terminal or command prompt and run the following command to install the required libraries:
 
 ```bash
-pip install streamlit yfinance scikit-learn pandas matplotlib
-
+pip install scikit-learn streamlit yfinance
+```
 
 
 
@@ -48,10 +48,10 @@ pip install streamlit yfinance scikit-learn pandas matplotlib
 
 ### Input of the stock name
 
-![](C:\Users\Achyut\AppData\Roaming\marktext\images\2025-11-24-13-55-15-image.png)
+![alt text](image.png)
 
 ### Output of the predictor along side a graph showing the change in the stock price through the time.
 
-![](C:\Users\Achyut\AppData\Roaming\marktext\images\2025-11-24-13-55-50-image.png)
+![]![alt text](image-1.png)
 
-![](C:\Users\Achyut\AppData\Roaming\marktext\images\2025-11-24-13-56-09-image.png)
+![alt text](image-2.png)
