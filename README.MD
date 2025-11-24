@@ -48,10 +48,10 @@ pip install scikit-learn streamlit yfinance
 
 ### Input of the stock name
 
-![](C:\Users\Achyut\AppData\Roaming\marktext\images\2025-11-24-13-55-15-image.png)
+![](/Screenshots/image.png)
 
 ### Output of the predictor along side a graph showing the change in the stock price through the time.
 
-![](C:\Users\Achyut\AppData\Roaming\marktext\images\2025-11-24-13-55-50-image.png)
+![](\Screenshots\image-1.png)
 
-![](C:\Users\Achyut\AppData\Roaming\marktext\images\2025-11-24-13-56-09-image.png)
+![](\Screenshots\image-2.png)
